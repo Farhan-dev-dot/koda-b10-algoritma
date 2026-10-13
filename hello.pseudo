@@ -1,12 +1,15 @@
 
-INPUT n
+DECLARE N : INTEGER
+DECLARE Nilai : INTEGER
 
-Nilai <-- n MOD 2
+INPUT N
+
+Nilai <- N MOD 2
 
 IF Nilai = 0 THEN
-   OUTPUT "Genap"
+   OUTPUT Nilai "GENAP"
 ELSE
-    OUTPUT "Ganjil"
+    OUTPUT Nilai
 ENDIF
 
 

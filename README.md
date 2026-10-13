@@ -92,12 +92,17 @@ G-->H
 
 ## Pseudo-code menentukan ganjil dan genap
 
-INPUT n
+DECLARE N : INTEGER
+DECLARE Nilai : INTEGER
 
-Nilai <-- n MOD 2
+INPUT N
+
+Nilai <- N MOD 2
 
 IF Nilai = 0 THEN
-OUTPUT "Genap"
+OUTPUT "GENAP"
 ELSE
-OUTPUT "Ganjil"
+OUTPUT "GANJIL"
 ENDIF
+
+## menghitung keliling dan luas lingkaran
