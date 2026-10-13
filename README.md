@@ -31,7 +31,7 @@ c = gelas kosong
 
 1. Mulai
 2. nilai (r) sama dengan 7
-3. menentukan nilai pi 22/7 sama degnan 3,14
+3. menentukan nilai pi 22/7 sama dengan 3,14
 4. menghitung luas,jadi keliling sama dengan pi x r x r maka nilai k menjadi 44 cm
 5. menghitung keliling , jadi luas sama dengan 2 x pi x r sama dengan 154 cm
 6. selesai
