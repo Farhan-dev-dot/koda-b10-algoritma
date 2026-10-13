@@ -23,7 +23,7 @@
 1. Mulai
 2. masukan nilai (r)
 3. Tentukan nilai konstanta pi 22/7 atau 3,14
-4. Piihan untuk menghitung luas atau keliling
+4. jika keliling maka hitung sesuai dengan rumus keliling
 5. hitunglah keliling dengan rumus pi r pangkat 2
 6. hitunglah luas dengan rumus 2 x pi x r
 7. selesai
@@ -71,8 +71,7 @@ flowchart TD
 A@{ shape: circle, label: "Start" }
 B[/r/]
 C[Pi 3,14 atau 22/7]
-D[/Pilih keliling atau luas /]
-E{ keliling atau luas ?}
+E{ keliling ?}
 F[ pi x r pangkat 2 ]
 G[ 2 x pi x r ]
 I(((selesai)))
