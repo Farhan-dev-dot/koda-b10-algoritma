@@ -14,9 +14,8 @@
 1. Mulai
 2. Masukan n
 3. hitung n Modulus 2 ke nilai
-4. jika sisa hasil bagi nilai sama dengan 0 maka bilangan tersebut genap
-5. jika sisa hasil bagi nilai tidak sama dengan 0 maka bilangan tersebut ganjil
-6. selesai.
+4. jika sisa hasil bagi nilai sama dengan 0 maka bilangan tersebut genap kalo sisa bagi tidak sama dengan 0 maka bilangan tersebut ganjil
+5. selesai.
 
 ## Algoritma menghitung luas dan keliling lingkaran
 
