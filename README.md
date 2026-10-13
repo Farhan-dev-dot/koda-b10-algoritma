@@ -71,19 +71,19 @@ flowchart TD
 A@{ shape: circle, label: "Start" }
 B[/r/]
 C[Pi 3,14 atau 22/7]
-E{ keliling ?}
-F[ pi x r pangkat 2 ]
-G[ 2 x pi x r ]
-I(((selesai)))
+D{ keliling ?}
+E[ pi x r pangkat 2 ]
+F[ 2 x pi x r ]
+G(((selesai)))
 
 A-->B
 B-->C
 C-->D
-D-->E
-E--ya-->F
-E--tidak-->G
-G-->I
-F-->I
+D--YA-->E
+D--TIDAK-->F
+E-->G
+F-->G
+
 
 
 
