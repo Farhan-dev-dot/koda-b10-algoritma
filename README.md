@@ -29,10 +29,6 @@
 7. Hasil luas
 8. selesai
 
-## simbol flowchart
-
-![alt text](flowchart.jpg)
-
 # Flowchart
 
 ## menentukan bilangan genap dan ganjil
