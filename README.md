@@ -22,7 +22,7 @@
 
 1. Mulai
 2. masukan nilai (r)
-3. Tentukan nilai konstanta pi 22/7 atau 3,14
+3. nilai pi sama dengan 3,14
 4. rumus keliling dengan rumus pi x r x r pangkat 2
 5. rumus luas dengan rumus 2 x pi x r
 6. selesai
