@@ -13,9 +13,9 @@
 
 1. Mulai
 2. Masukan n
-3. tentukan (nilai) sama dengan n % 2
-4. jika sisa hasil bagi n sama dengan 0 maka bilangan tersebut genap
-5. jika sisa hasil bagi n tidak sama dengan 0 maka bilangan tersebut ganjil
+3. terapkan n Modulus 2 ke nilai
+4. jika sisa hasil bagi nilai sama dengan 0 maka bilangan tersebut genap
+5. jika sisa hasil bagi nilai tidak sama dengan 0 maka bilangan tersebut ganjil
 6. selesai.
 
 ## Algoritma menghitung luas dan keliling lingkaran
@@ -49,8 +49,8 @@ G(((selesai)))
 A-->B
 B-->C
 C-->D
-D--ya-->F
-D--tidak-->E
+D--tidak-->F
+D--ya-->E
 F-->G
 E-->G
 
