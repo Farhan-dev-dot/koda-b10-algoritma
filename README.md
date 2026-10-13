@@ -13,7 +13,7 @@
 
 1. Mulai
 2. Masukan n
-3. terapkan n Modulus 2 ke nilai
+3. hitung n Modulus 2 ke nilai
 4. jika sisa hasil bagi nilai sama dengan 0 maka bilangan tersebut genap
 5. jika sisa hasil bagi nilai tidak sama dengan 0 maka bilangan tersebut ganjil
 6. selesai.
