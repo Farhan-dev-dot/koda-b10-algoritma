@@ -49,7 +49,7 @@ flowchart TD
 
 A((mulai))
 B[/Masukan Nilai n /]
-C[n % 2]
+C[nilai = n % 2]
 D{nilai == 0 ? }
 E[GENAP]
 F[GANJIL]
