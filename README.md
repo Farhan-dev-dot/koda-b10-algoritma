@@ -1,6 +1,6 @@
-# Algoritma Air
+# Algoritma
 
-# Deskrispsi singkat
+# Deskriptif
 
 disni untuk task nya memindahkan  
 teh dengan variable a dan kopi variable b
@@ -35,3 +35,34 @@ c = gelas kosong
 4. maka hitunglah keliling dengan rumus pi x r x r
 5. maka hitunglah luas dengan rumus 2 x pi x r
 6. selesai
+
+# simbol flowchart
+
+![alt text](flowchart.jpg)
+
+# Flowchart
+
+```mermaid
+
+
+flowchart TD
+
+A((mulai))
+B[/Masukan Nilai n /]
+C[n % 2]
+D{nilai == 0 ? }
+E[GENAP]
+F[GANJIL]
+G(((selesai)))
+
+A-->B
+B-->C
+C-->D
+D--ya-->F
+D--tidak-->E
+F-->G
+E-->G
+
+
+
+```
