@@ -80,6 +80,7 @@ I(((selesai)))
 A-->B
 B-->C
 C-->D
+D-->E
 E--ya-->F
 E--tidak-->G
 G-->I
