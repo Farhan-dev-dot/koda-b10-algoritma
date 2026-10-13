@@ -30,8 +30,8 @@ c = gelas kosong
 # Algoritma menghitung luas dan keliling lingkaran
 
 1. Mulai
-2. nilai (r) sama dengan 7
-3. menentukan nilai pi 22/7 sama dengan 3,14
-4. menghitung luas,jadi keliling sama dengan pi x r x r maka nilai k menjadi 44 cm
-5. menghitung keliling , jadi luas sama dengan 2 x pi x r sama dengan 154 cm
+2. masukan nilai (r)
+3. Tentukan nilai konstanta pi 22/7 atau 3,14
+4. maka hitunglah keliling dengan rumus pi x r x r
+5. maka hitunglah luas dengan rumus 2 x pi x r
 6. selesai
