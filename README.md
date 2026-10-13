@@ -13,7 +13,7 @@
 
 1. Mulai
 2. Masukan n
-3. tentukan (Nilai) sama dengan n % 2
+3. tentukan (nilai) sama dengan n % 2
 4. jika sisa hasil bagi n sama dengan 0 maka bilangan tersebut genap
 5. jika sisa hasil bagi n tidak sama dengan 0 maka bilangan tersebut ganjil
 6. selesai.
@@ -68,9 +68,9 @@ A@{ shape: circle, label: "Start" }
 B[/r/]
 C[pi 3,14]
 D[ pi x r² ]
-E[keliling]
+E[/keliling/]
 F[ 2 x pi x r ]
-G[LUAS]
+G[/Luas/]
 H(((selesai)))
 
 A-->B
@@ -88,14 +88,14 @@ G-->H
 
 ## Pseudo-code menentukan ganjil dan genap
 
-DECLARE N : INTEGER
-DECLARE Nilai : INTEGER
+DECLARE n : INTEGER
+DECLARE nilai : INTEGER
 
-INPUT N
+INPUT n
 
-Nilai <- N MOD 2
+nilai <- n MOD 2
 
-IF Nilai = 0 THEN
+IF nilai = 0 THEN
 OUTPUT "GENAP"
 ELSE
 OUTPUT "GANJIL"
