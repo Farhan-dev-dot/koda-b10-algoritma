@@ -17,7 +17,7 @@ c = gelas kosong
 2. b = a
 3. a = b
 
-# Algorimat Menentukan bilangan
+# Algortma Menentukan bilangan
 
 1. Mulai
 2. Nilai sama dengan (a) sama dengan 2
