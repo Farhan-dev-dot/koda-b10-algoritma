@@ -70,7 +70,7 @@ flowchart TD
 
 A@{ shape: circle, label: "Start" }
 B[/r/]
-C[/Pi 3,14 atau 22/7/]
+C[Pi 3,14 atau 22/7]
 D[/Pilih keliling atau luas /]
 E{ keliling atau luas ?}
 F[ pi x r pangkat 2 ]
