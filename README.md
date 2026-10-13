@@ -24,4 +24,4 @@ c = gelas kosong
 3. Nilai sama dengan (b) sama dengan 3
 4. hitung pembagian bilangan dengan 2
 5. jika hasil (a) modulus 2 sama dengan 0 maka genap
-6. jika hasi (b) modulus 3 sama dengan 0 maka ganjil
+6. jika hasil (b) modulus 3 sama dengan 0 maka ganjil
