@@ -23,10 +23,9 @@
 1. Mulai
 2. masukan nilai (r)
 3. Tentukan nilai konstanta pi 22/7 atau 3,14
-4. jika keliling maka hitung sesuai dengan rumus keliling
-5. rumus keliling dengan rumus pi r pangkat 2
-6. rumus luas dengan rumus 2 x pi x r
-7. selesai
+4. rumus keliling dengan rumus pi x r x pangkat 2
+5. rumus luas dengan rumus 2 x pi x r
+6. selesai
 
 # simbol flowchart
 
@@ -71,21 +70,15 @@ flowchart TD
 A@{ shape: circle, label: "Start" }
 B[/r/]
 C[Pi 3,14 atau 22/7]
-D{ keliling ?}
-E[ pi x r pangkat 2 ]
-F[ 2 x pi x r ]
-G(((selesai)))
+D[ pi x r pangkat 2 ]
+E[ 2 x pi x r ]
+F(((selesai)))
 
 A-->B
 B-->C
 C-->D
-D--YA-->E
-D--TIDAK-->F
-E-->G
-F-->G
-
-
-
+D-->E
+E-->F
 
 
 ```
