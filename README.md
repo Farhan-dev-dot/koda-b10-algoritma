@@ -12,12 +12,11 @@
 # Algoritma Menentukan bilangan
 
 1. Mulai
-2. Nilai sama dengan (a) sama dengan 2
-3. Nilai sama dengan (b) sama dengan 3
-4. Hitung sisa hasil bagi bilangan dengan 2.
-5. jika sisa hasil bagi (a) sama dengan 0 maka bilangan tersebut genap
-6. jika sisa hasil bagi (b) tidak sama dengan 0 maka bilangan tersebut ganjil
-7. selesai.
+2. Masukan Nilai n
+3. Hitung hasil sisa bagi dengan 2
+4. jika sisa hasil bagi n sama dengan 0 maka bilangan tersebut genap
+5. jika sisa hasil bagi n tidak sama dengan 0 maka bilangan tersebut ganjil
+6. selesai.
 
 # Algoritma menghitung luas dan keliling lingkaran
 
