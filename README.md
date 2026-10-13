@@ -24,5 +24,5 @@ c = gelas kosong
 3. Nilai sama dengan (b) sama dengan 3
 4. Hitung sisa hasil bagi bilangan dengan 2.
 5. jika sisa hasil bagi (a) sama dengan 0 maka bilangan tersebut genap
-6. jika sisa hasil bagi (b) sama dengan 0 maka bilangan tersebut ganjil
+6. jika sisa hasil bagi (b) tidak sama dengan 0 maka bilangan tersebut ganjil
 7. selesai.
