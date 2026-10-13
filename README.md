@@ -22,6 +22,7 @@ c = gelas kosong
 1. Mulai
 2. Nilai sama dengan (a) sama dengan 2
 3. Nilai sama dengan (b) sama dengan 3
-4. hitung pembagian bilangan dengan 2
-5. jika hasil (a) modulus 2 sama dengan 0 maka genap
-6. jika hasil (b) modulus 3 sama dengan 0 maka ganjil
+4. Hitung sisa hasil bagi bilangan dengan 2.
+5. jika sisa hasil bagi (a) sama dengan 0 maka bilangan tersebut genap
+6. jika sisa hasil bagi (b) sama dengan 0 maka bilangan tersebut ganjil
+7. selesai.
