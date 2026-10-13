@@ -7,8 +7,9 @@ jadi pertama pindahkan variable a ke c lalu b ke a lanjut c ke b
 
 # Logika
 
-a = teh
-b = kopi
+a = gelas teh
+b = gelas kopi
+c = gelas kosong
 
 1. c = a
 2. b = a
