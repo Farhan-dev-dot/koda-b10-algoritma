@@ -26,3 +26,11 @@ c = gelas kosong
 5. jika sisa hasil bagi (a) sama dengan 0 maka bilangan tersebut genap
 6. jika sisa hasil bagi (b) tidak sama dengan 0 maka bilangan tersebut ganjil
 7. selesai.
+
+# Algoritma menghitung luas dan keliling lingkaran
+
+1. Mulai
+2. nilai (r) sama dengan 7
+3. menentukan nilai pi 22 : 7 = 3,14
+4. menghitung luas,jadi keliling sama dengan pi x r x r maka nilai k menjadi 44 cm
+5. menghitung keliling , jadi luas sama dengan 2 x pi x r sama dengan 154 cm
