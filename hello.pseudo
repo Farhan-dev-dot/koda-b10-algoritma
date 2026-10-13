@@ -1,0 +1,14 @@
+
+INPUT n
+
+Nilai <-- n MOD 2
+
+IF Nilai = 0 THEN
+   OUTPUT "Genap"
+ELSE
+    OUTPUT "Ganjil"
+ENDIF
+
+
+
+

@@ -1,6 +1,6 @@
 # Algoritma
 
-# Algoritma air
+## Algoritma air
 
 1. Mulai
 2. Buat variable kosong c
@@ -9,31 +9,33 @@
 5. tuangkan c gelas kosong ke gelas b kopi
 6. selesai
 
-# Algoritma Menentukan bilangan
+## Algoritma Menentukan bilangan
 
 1. Mulai
-2. Masukan Nilai n
-3. Hitung hasil sisa bagi dengan 2
+2. Masukan n
+3. tentukan (Nilai) sama dengan n % 2
 4. jika sisa hasil bagi n sama dengan 0 maka bilangan tersebut genap
 5. jika sisa hasil bagi n tidak sama dengan 0 maka bilangan tersebut ganjil
 6. selesai.
 
-# Algoritma menghitung luas dan keliling lingkaran
+## Algoritma menghitung luas dan keliling lingkaran
 
 1. Mulai
 2. masukan nilai (r)
 3. nilai pi sama dengan 3,14
-4. rumus keliling dengan rumus pi x r x r pangkat 2
-5. rumus luas dengan rumus 2 x pi x r
-6. selesai
+4. Hitung keliling dengan rumus pi x r pangkat 2
+5. Hasil keliling
+6. Hitung luas dengan rumus 2 x pi x r
+7. Hasil luas
+8. selesai
 
-# simbol flowchart
+## simbol flowchart
 
 ![alt text](flowchart.jpg)
 
 # Flowchart
 
-# menentukan bilangan genap dan ganjil
+## menentukan bilangan genap dan ganjil
 
 ```mermaid
 
@@ -60,7 +62,7 @@ E-->G
 
 ```
 
-# menghitung luas dan keliling lingkaran
+## menghitung luas dan keliling lingkaran
 
 ```mermaid
 
@@ -70,14 +72,32 @@ A@{ shape: circle, label: "Start" }
 B[/r/]
 C[pi 3,14]
 D[ pi x r² ]
-E[ 2 x pi x r ]
-F(((selesai)))
+E[keliling]
+F[ 2 x pi x r ]
+G[LUAS]
+H(((selesai)))
 
 A-->B
 B-->C
 C-->D
 D-->E
 E-->F
+F-->G
+G-->H
 
 
 ```
+
+# Pseudo-code
+
+## Pseudo-code menentukan ganjil dan genap
+
+INPUT n
+
+Nilai <-- n MOD 2
+
+IF Nilai = 0 THEN
+OUTPUT "Genap"
+ELSE
+OUTPUT "Ganjil"
+ENDIF
