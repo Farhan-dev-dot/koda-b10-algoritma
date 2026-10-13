@@ -1,6 +1,6 @@
 # Algoritma
 
-## Algoritma air
+## Algoritma memindahkan air
 
 1. Mulai
 2. Buat variable kosong c
@@ -24,9 +24,9 @@
 2. masukan nilai (r)
 3. nilai pi sama dengan 3,14
 4. Hitung keliling dengan rumus pi x r pangkat 2
-5. Hasil keliling
+5. Tampilkan hasil keliling
 6. Hitung luas dengan rumus 2 x pi x r
-7. Hasil luas
+7. Tampilkan eHasil luas
 8. selesai
 
 # Flowchart
@@ -102,3 +102,5 @@ OUTPUT "GANJIL"
 ENDIF
 
 ## menghitung keliling dan luas lingkaran
+
+DECLARE
