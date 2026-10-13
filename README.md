@@ -68,7 +68,7 @@ flowchart TD
 
 A@{ shape: circle, label: "Start" }
 B[/r/]
-C[Pi 3,14]
+C[pi 3,14]
 D[ pi x r² ]
 E[ 2 x pi x r ]
 F(((selesai)))
