@@ -43,8 +43,8 @@ A@{ shape: circle, label: "Start" }
 B[/n/]
 C[nilai = n % 2]
 D{nilai == 0 ? }
-E[/GENAP/]
-F[/GANJIL/]
+E[/"GENAP"/]
+F[/"GANJIL"/]
 G(((selesai)))
 
 A-->B
